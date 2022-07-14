@@ -22,3 +22,16 @@ body{
     height: calc(100% / 10);
     border: 1px solid black;
 }
+
+#container .click{
+    background-color: blue;
+    color: white;
+}
+
+.pari{
+    background-color: lightblue;
+}
+
+.dispari{
+    background-color: lightcoral;
+}
